@@ -1,6 +1,6 @@
 # To-Do-List
 
-> JavaScript를 학습하고 만든 작은 프로젝트
+> JavaScript를 학습하면서 만든 작은 프로젝트
 
 ## 실행 화면
 
